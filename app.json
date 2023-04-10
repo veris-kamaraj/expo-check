@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "terminalplus",
+    "slug": "terminalplus",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
